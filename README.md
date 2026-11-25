@@ -36,7 +36,7 @@
 
 - App Router `generateMetadata`로 게시물·목록·프로필 메타데이터 생성을 중앙화했습니다.
 - canonical·noindex 색인 정책을 도메인별로 정의하고, robots.txt와 sitemap을 연동했습니다.
-- 마크다운 에디터의 자동·수동 임시저장 경합으로 `draftId` 확정 전 생성 요청이 두 번 나가 게시물이 중복 생성되던 문제를 재현해 차단했습니다.
+- 마크다운 에디터에서 자동·수동 임시저장이 겹쳐 `draftId` 확정 전 생성 요청이 두 번 나가던 중복 생성을 재현해 차단했습니다.
 - Edge 런타임에서 동작하지 않던 HTML sanitization을 Edge 호환 정제기로 교체했습니다.
 
 [techtaurant-fe](https://github.com/techtaurant/techtaurant-fe)
@@ -50,7 +50,7 @@
 
 ![FE](https://img.shields.io/badge/FE-1F2328?style=flat-square) ![React 19](https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![MSW](https://img.shields.io/badge/MSW-FF6A33?style=flat-square&logo=mockserviceworker&logoColor=white) ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white)
 
-- AI 에이전트의 다단계 분석 진행을 단계별로 노출하고, 에이전트가 되묻는 질문에 답하면 재분석을 요청하는 HITL 흐름을 화면에서 구현했습니다.
+- AI 에이전트의 분석 진행을 단계별로 노출하고, 되묻는 질문에 답하면 재분석을 요청하는 HITL 흐름을 화면에서 구현했습니다.
 - 기한 계산·증빙 대조·초안 편집 같은 도메인 로직을 UI에서 분리해 단위 테스트로 검증했습니다.
 - API 미완성 구간을 MSW 모킹으로 대체해(12단계·30초 분석 시뮬레이션) 화면 플로우를 선개발했습니다.
 - 법정 서식(별지 제4호 이의제기신청서)을 양식 그대로 PDF로 생성하고, 입력 길이에 따른 줄 수를 계산해 불필요한 페이지 분할을 막았습니다.
