@@ -1,6 +1,6 @@
 ### 주유나 · Youna Joo
 
-**금융 서비스의 정합성과 보안을 코드로 지키는 풀스택 개발자**
+**금융 서비스의 정합성과 보안을 코드로 지키는 풀스택 개발자**<br>
 돈이 오가는 화면과 서버에서 동시성, 감사, 권한 경계를 먼저 설계합니다.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
