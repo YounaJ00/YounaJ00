@@ -1,6 +1,7 @@
 ### 주유나 · Youna Joo
 
-**금융 서비스의 정합성과 보안을 코드로 지키는 풀스택 개발자**<br>
+**금융 서비스의 정합성과 보안을 코드로 지키는 풀스택 개발자**
+
 돈이 오가는 화면과 서버에서 동시성, 감사, 권한 경계를 먼저 설계합니다.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -11,7 +12,7 @@
 
 ### <img src="assets/corebank.png" height="22" alt=""> CoreBank · 계정계 코어뱅킹
 
-> 신한DS 금융SW 풀스택 개발자 양성과정 7기 팀 프로젝트(6인) · 2026.08 ~ 진행 중
+> 신한DS 금융SW 풀스택 개발자 양성과정 7기 팀 프로젝트(6인) · 2026.08 ~ 진행 중<br>
 > 이체한도와 알림, 관리자 인증·권한·감사, 성능 측정을 맡았고 프론트엔드를 이끌었습니다.
 
 ![BE](https://img.shields.io/badge/BE-1F2328?style=flat-square) ![Java 21](https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot 4](https://img.shields.io/badge/Spring%20Boot%204-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Modulith](https://img.shields.io/badge/Spring%20Modulith-6DB33F?style=flat-square&logo=spring&logoColor=white) ![JPA · Querydsl](https://img.shields.io/badge/JPA%20%C2%B7%20Querydsl-59666C?style=flat-square&logo=hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white) ![Testcontainers](https://img.shields.io/badge/Testcontainers-291A3F?style=flat-square) ![ArchUnit](https://img.shields.io/badge/ArchUnit-4B5563?style=flat-square) ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)<br>
@@ -29,7 +30,7 @@
 
 ### <img src="assets/techtaurant.png" height="22" alt=""> Techtaurant · 기술 블로그 플랫폼
 
-> 4인 팀(FE 2 · BE 2) · 2026.05 ~ 진행 중
+> 4인 팀(FE 2 · BE 2) · 2026.05 ~ 진행 중<br>
 > 게시물 작성·목록·상세와 댓글 도메인, 프론트엔드 전역 SEO를 맡았습니다.
 
 ![FE](https://img.shields.io/badge/FE-1F2328?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React 19](https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
@@ -45,7 +46,7 @@
 
 ### <img src="assets/proofy.png" height="22" alt=""> Proofy · 지급정지 이의제기 서류 준비 도우미
 
-> 2026 대한민국 청년 CAREER FAIR AI 해커톤 출품작 · 2026.11.21 ~ 11.23
+> 2026 대한민국 청년 CAREER FAIR AI 해커톤 출품작 · 2026.11.21 ~ 11.23<br>
 > 사기 피해금이 입금돼 계좌가 묶인 청년이 은행에 낼 소명 서류를 준비하도록 돕는 웹앱입니다.
 
 ![FE](https://img.shields.io/badge/FE-1F2328?style=flat-square) ![React 19](https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![MSW](https://img.shields.io/badge/MSW-FF6A33?style=flat-square&logo=mockserviceworker&logoColor=white) ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white)
